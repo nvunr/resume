@@ -16,7 +16,7 @@ h1 {
 }
 
 .icon-bar a {
-  float: left;
+  float: center;
   width: 20%;
   text-align: center;
   padding: 6px 0;
